@@ -11,7 +11,7 @@ Free game Built with HTML, CSS & JavaScript
 ## 🕹️ Project game valorent
 เกมวาโรแลนซ์
 
-[⬇️ Download]([https://github.com/USERNAME/REPO/releases/latest/download/Project1.zip](https://github.com/jubjibphudtaraksa-cell/FIATX2-GAME/raw/main/VALORANT.html))
+[⬇️ Download]([https://github.com/USERNAME/REPO/releases/latest/download/Project1.zip](https://github.com/jubjibphudtaraksa-cell/FIATX2-GAME/raw/main/VALORANT.html.zip))
 
 ---
 
